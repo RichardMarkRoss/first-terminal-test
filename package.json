@@ -1,0 +1,29 @@
+{
+  "name": "first-terminal-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countAllFromTown.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "dev": "^0.1.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardMarkRoss/first-terminal-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardMarkRoss/first-terminal-test/issues"
+  },
+  "homepage": "https://github.com/RichardMarkRoss/first-terminal-test#readme"
+}
